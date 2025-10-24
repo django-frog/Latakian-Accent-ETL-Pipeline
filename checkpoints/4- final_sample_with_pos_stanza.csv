@@ -1,0 +1,356 @@
+﻿id,dialect_region,token,gloss_ar,source,filename,source_url,pos
+1,Latakian,اخويا,أخي,voice_file,voice_record_1.mp3,,X
+2,Latakian,راسي,راسي,voice_file,voice_record_1.mp3,,X
+3,Latakian,حارتك,الحي,voice_file,voice_record_1.mp3,,NOUN
+4,Latakian,والله,أقسم بالله,voice_file,voice_record_1.mp3,,VERB
+5,Latakian,عيّن,أنظر,voice_file,voice_record_1.mp3,,VERB
+6,Latakian,لمطلك,اجمع,voice_file,voice_record_1.mp3,,X
+7,Latakian,لقطة,غنيمة,voice_file,voice_record_1.mp3,,NOUN
+8,Latakian,البالا,محل البالة,voice_file,voice_record_1.mp3,,NOUN
+9,Latakian,أزبطلك,أفضل لك,voice_file,voice_record_1.mp3,,X
+10,Latakian,الأسعار,الأسعار,voice_file,voice_record_1.mp3,,NOUN
+11,Latakian,بسوء,سوق,voice_file,voice_record_1.mp3,,NOUN
+12,Latakian,نار,نار,voice_file,voice_record_1.mp3,,NOUN
+13,Latakian,شاعلة,ملتهبة,voice_file,voice_record_1.mp3,,ADJ
+14,Latakian,العمى,يا للعجب,voice_file,voice_record_1.mp3,,PART
+15,Latakian,عيونين,أعينهم,voice_file,voice_record_1.mp3,,X
+16,Latakian,التجار,التجار,voice_file,voice_record_1.mp3,,NOUN
+17,Latakian,بقلبهم,بقلبهم,voice_file,voice_record_1.mp3,,X
+18,Latakian,رحمة,رحمة,voice_file,voice_record_1.mp3,,NOUN
+19,Latakian,خلص,كفى,voice_file,voice_record_1.mp3,,X
+20,Latakian,دشر,أترك,voice_file,voice_record_1.mp3,,VERB
+21,Latakian,شو,ماذا,voice_file,voice_record_1.mp3,,DET
+22,Latakian,بدك,تريد,voice_file,voice_record_1.mp3,,VERB
+23,Latakian,مفكرينا,يعتقدوننا,voice_file,voice_record_1.mp3,,X
+24,Latakian,ولاد,أولاد,voice_file,voice_record_1.mp3,,NOUN
+25,Latakian,يتشايعوا,تمني الموت,voice_file,voice_record_1.mp3,,VERB
+26,Latakian,كلاكيشون,أعراضهم,voice_file,voice_record_1.mp3,,X
+27,Latakian,اناني,قناني,voice_file,voice_record_1.mp3,,X
+28,Latakian,ريحة,عطر,voice_file,voice_record_1.mp3,,NOUN
+29,Latakian,الخفافات,الأحذية,voice_file,voice_record_1.mp3,,NOUN
+30,Latakian,القلاشين,الجوارب,voice_file,voice_record_1.mp3,,NOUN
+31,Latakian,علب,علب,voice_file,voice_record_1.mp3,,NOUN
+32,Latakian,البريانطين,جيل الشعر,voice_file,voice_record_1.mp3,,NOUN
+33,Latakian,اما عن طيبو,عن غير قصد,voice_file,voice_record_1.mp3,,NOUN
+34,Latakian,بدي,أريد,voice_file,voice_record_1.mp3,,VERB
+35,Latakian,بأديش,بكم,voice_file,voice_record_2.mp3,,X
+36,Latakian,تحسبلنا,تحسب لنا,voice_file,voice_record_2.mp3,,VERB
+37,Latakian,جارك,جارك,voice_file,voice_record_2.mp3,,X
+38,Latakian,بنصف,بنصف,voice_file,voice_record_2.mp3,,NOUN
+39,Latakian,السعر,السعر,voice_file,voice_record_2.mp3,,NOUN
+40,Latakian,بس,فقط,voice_file,voice_record_2.mp3,,ADV
+41,Latakian,ننفعك,نساعدك,voice_file,voice_record_2.mp3,,X
+42,Latakian,دلتني,دلتني,voice_file,voice_record_2.mp3,,X
+43,Latakian,قالت,قالت,voice_file,voice_record_2.mp3,,VERB
+44,Latakian,ابن,ابن,voice_file,voice_record_2.mp3,,NOUN
+45,Latakian,حلال,حلال,voice_file,voice_record_2.mp3,,NOUN
+46,Latakian,آدمي,آدمي,voice_file,voice_record_2.mp3,,X
+47,Latakian,غالواجي,يغلّي في السعر,voice_file,voice_record_2.mp3,,ADP
+48,Latakian,بعدين,لاحقاً,voice_file,voice_record_2.mp3,,ADJ
+49,Latakian,شو فياا,ماذا بها,voice_file,voice_record_2.mp3,,DET
+50,Latakian,هون,هنا,voice_file,voice_record_3.mp3,,ADV
+51,Latakian,منقوبة,مهترءة,voice_file,voice_record_3.mp3,,ADJ
+52,Latakian,شوفوا,إنظروا,voice_file,voice_record_3.mp3,,VERB
+53,Latakian,كمان,أيضاً,voice_file,voice_record_3.mp3,,ADV
+54,Latakian,خياط,خياطة,voice_file,voice_record_3.mp3,,NOUN
+55,Latakian,يرتيها,يخيطها,voice_file,voice_record_3.mp3,,VERB
+56,Latakian,يزبطها,يصلحها,voice_file,voice_record_3.mp3,,VERB
+57,Latakian,تكسر بخاطرو,تجعله حزيناً,voice_file,voice_record_4.mp3,,VERB
+58,Latakian,عجبتو,أحبها,voice_file,voice_record_4.mp3,,X
+59,Latakian,بيلبسا,يرتديها,voice_file,voice_record_4.mp3,,X
+60,Latakian,ضبا,وظبها,voice_file,voice_record_5.mp3,,VERB
+61,Latakian,مبيقيان,لم يبقى,voice_file,voice_record_5.mp3,,PART
+62,Latakian,غير,إلا,voice_file,voice_record_5.mp3,,PART
+63,Latakian,مصاري,أموال,voice_file,voice_record_5.mp3,,NOUN
+64,Latakian,عكيناها مشوى,مشينا مسافة طويلة,voice_file,voice_record_5.mp3,,X
+65,Latakian,يلعو قلبك,يصيبك الهم,voice_file,voice_record_6.mp3,,VERB
+66,Latakian,شيبك,ماذا بك,voice_file,voice_record_7.mp3,,DET
+67,Latakian,بصلتك محروقة,ليس لديك صبر,voice_file,voice_record_7.mp3,,ADP
+68,Latakian,جوزك,زوجك,voice_file,voice_record_7.mp3,,X
+69,Latakian,الشروطة,الرهانات,voice_file,voice_record_7.mp3,,NOUN
+70,Latakian,انتو,أنتم,voice_file,voice_record_7.mp3,,VERB
+71,Latakian,ناطرينو,منتظرين,voice_file,voice_record_7.mp3,,ADJ
+72,Latakian,الزكا,الذكاء,voice_file,voice_record_8.mp3,,NOUN
+73,Latakian,موني,لست,voice_file,voice_record_8.mp3,,VERB
+74,Latakian,يقطاعو لعمرك,تمني الموت,voice_file,voice_record_8.mp3,,VERB
+75,Latakian,الغشم,أغبياء,voice_file,voice_record_8.mp3,,ADJ
+76,Latakian,اتو,أنتم,voice_file,voice_record_9.mp3,,VERB
+77,Latakian,غشيمة,غبية,voice_file,voice_record_9.mp3,,ADJ
+78,Latakian,أخوي,أخي,voice_file,voice_record_9.mp3,,X
+79,Latakian,الاستاز,الأستاذ,voice_file,voice_record_9.mp3,,NOUN
+80,Latakian,الجيئر,الوقح,voice_file,voice_record_10.mp3,,NOUN
+81,Latakian,اخطيته,يا له من مسكين,voice_file,voice_record_10.mp3,,ADP
+82,Latakian,برأبتك,برقبتك,voice_file,voice_record_10.mp3,,X
+83,Latakian,بيسة,قطة,voice_file,voice_record_10.mp3,,X
+84,Latakian,بنلزق هذه العجينة,دعنا نحاول,voice_file,voice_record_10.mp3,,X
+85,Latakian,مظبوط كلامك,كلامك صحيح,voice_file,voice_record_10.mp3,,ADJ
+86,Latakian,سد بوزك,أغلق فمك,voice_file,voice_record_11.mp3,,VERB
+87,Latakian,بتستحي,تخجل,voice_file,voice_record_11.mp3,,VERB
+88,Latakian,مهنديز,مهندس,voice_file,voice_record_11.mp3,,NOUN
+89,Latakian,مليان ومنتلي,غني ,voice_file,voice_record_11.mp3,,X
+90,Latakian,خلانج,جديدة,voice_file,voice_record_11.mp3,,ADJ
+91,Latakian,بتي,إبنتي,voice_file,voice_record_11.mp3,,X
+92,Latakian,لواح,شخص,voice_file,voice_record_11.mp3,,NOUN
+93,Latakian,تصمي,أحمق,voice_file,voice_record_11.mp3,,ADJ
+94,Latakian,نتوسة,قليلاً,voice_file,voice_record_11.mp3,,ADJ
+95,Latakian,حلس ملس,ناعم الملمس,voice_file,voice_record_11.mp3,,ADJ
+96,Latakian,واطي,منحط,voice_file,voice_record_18.mpeg,,ADJ
+97,Latakian,تحكي,تتكلم,voice_file,voice_record_18.mpeg,,VERB
+98,Latakian,أبوي,أبي,voice_file,voice_record_18.mpeg,,X
+99,Latakian,بستحي,تخجل,voice_file,voice_record_18.mpeg,,VERB
+100,Latakian,قلتلي,قلت لي,voice_file,voice_record_18.mpeg,,X
+101,Latakian,عنجد,جدياً,voice_file,voice_record_18.mpeg,,ADJ
+102,Latakian,هاي,هذه,voice_file,voice_record_19.mpeg,,DET
+103,Latakian,أطيب,ألذ,voice_file,voice_record_19.mpeg,,VERB
+104,Latakian,متة,مشروب المتة,voice_file,voice_record_19.mpeg,,NOUN
+105,Latakian,بالضيعة,ضيعة,voice_file,voice_record_19.mpeg,,NOUN
+106,Latakian,ختيار النحس,عجوز كبير في العمر,voice_file,voice_record_19.mpeg,,NOUN
+107,Latakian,أتلاني الجوع,جائعة جداً,voice_file,voice_record_19.mpeg,,ADJ
+108,Latakian,أبقى في نفس,ليس لدي شغف,voice_file,voice_record_20.mpeg,,ADP
+109,Latakian,سقالي,سماجة,voice_file,voice_record_20.mpeg,,X
+110,Latakian,فتحي مخيك,فكري جيداً,voice_file,voice_record_19.mpeg,,ADJ
+111,Latakian,جدبي,شخص غبي,voice_file,voice_record_19.mpeg,,ADJ
+112,Latakian,بدك فت خبز,مبتدأ (ليس لديه خبرة),voice_file,voice_record_20.mpeg,,NOUN
+113,Latakian,السلك,الشرطة,voice_file,voice_record_20.mpeg,,NOUN
+114,Latakian,لا من تمك ولا من كمك,لم ينطق بحرف,voice_file,voice_record_16.mpeg,,PART
+115,Latakian,لا من كوعك ولا من بوعك,لم ينطق بحرف,voice_file,voice_record_16.mpeg,,PART
+116,Latakian,جوزة الحلق,الحنجرة,voice_file,voice_record_16.mpeg,,NOUN
+117,Latakian,أرصوبة,الحنجرة,voice_file,voice_record_16.mpeg,,NOUN
+118,Latakian,يأرط جوزتك,يقتلك,voice_file,voice_record_16.mpeg,,VERB
+119,Latakian,كربة,مصيبة,voice_file,voice_record_16.mpeg,,NOUN
+120,Latakian,ييطيرهني,يقيله من منصبه,voice_file,voice_record_16.mpeg,,PRON
+121,Latakian,بزماناتو,في الماضي,voice_file,voice_record_18.mpeg,,ADP
+122,Latakian,خلق,ناس,voice_file,voice_record_18.mpeg,,X
+123,Latakian,بالع خلق,أغرق عالم,voice_file,voice_record_18.mpeg,,X
+124,Latakian,مستحي,خجول,voice_file,voice_record_18.mpeg,,ADJ
+125,Latakian,العمى في عيونك,تباً لك,voice_file,voice_record_18.mpeg,,X
+126,Latakian,زتـّا,ارميها,website,,http://www.akhawia.net/showthread.php?t=116676,X
+127,Latakian,اشْلفا,ارميها,website,,http://www.akhawia.net/showthread.php?t=116676,X
+128,Latakian,ازْركو,حاصره,website,,http://www.akhawia.net/showthread.php?t=116676,X
+129,Latakian,احْشكو,حاصره,website,,http://www.akhawia.net/showthread.php?t=116676,X
+130,Latakian,خـَيسو,خربه,website,,http://www.akhawia.net/showthread.php?t=116676,X
+131,Latakian,لمّط,إجمع,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+132,Latakian,قـبّوع,كيس ,website,,http://www.akhawia.net/showthread.php?t=116676,X
+133,Latakian,مسكليتة,دراجة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+134,Latakian,جاكيّة,سترة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+135,Latakian,باكيّة,حزمة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+136,Latakian,خفّافة,حذاء رياضة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+137,Latakian,السيبا,السلـّم,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+138,Latakian,كتّ,املئ,website,,http://www.akhawia.net/showthread.php?t=116676,X
+139,Latakian,عبّي,املئ,website,,http://www.akhawia.net/showthread.php?t=116676,X
+140,Latakian,إبّا,ارفعها,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+141,Latakian,جلموء,متملّق,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+142,Latakian,معلاء,حشري,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+143,Latakian,اشْكمو,اخذلوا,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+144,Latakian,بالورب,بجانب,website,,http://www.akhawia.net/showthread.php?t=116676,X
+145,Latakian,بالمايل,بجانب,website,,http://www.akhawia.net/showthread.php?t=116676,X
+146,Latakian,شْـفاتير,شفاه,website,,http://www.akhawia.net/showthread.php?t=116676,X
+147,Latakian,كلاكيش,اغراض,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+148,Latakian,مأنتن,متسخ,website,,http://www.akhawia.net/showthread.php?t=116676,X
+149,Latakian,صفدعة,ضفدع,website,,http://www.akhawia.net/showthread.php?t=116676,X
+150,Latakian,ملنـّص,محظوط,website,,http://www.akhawia.net/showthread.php?t=116676,X
+151,Latakian,مكن,قوي,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+152,Latakian,دَرْبَكو,اوقعه ارضا,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+153,Latakian,دَعْتـَرو,اوقعه ارضا,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+154,Latakian,مْأنشِح,متسخ,website,,http://www.akhawia.net/showthread.php?t=116676,X
+155,Latakian,ألشين,جرابات,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+156,Latakian,ألْشِت,إنزلق,website,,http://www.akhawia.net/showthread.php?t=116676,X
+157,Latakian,لـْبيسة,ثباب داخلية,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+158,Latakian,زْلاعيم,لوزات,website,,http://www.akhawia.net/showthread.php?t=116676,X
+159,Latakian,خروء,ضعيف,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+160,Latakian,اكْعَرو,اطرده,website,,http://www.akhawia.net/showthread.php?t=116676,X
+161,Latakian,اصْغـَرو,اطرده,website,,http://www.akhawia.net/showthread.php?t=116676,X
+162,Latakian,زَمَأ,مر,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+163,Latakian,بَحَت,مات,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+164,Latakian,طـَشّة,أهبل,website,,http://www.akhawia.net/showthread.php?t=116676,X
+165,Latakian,إيش ياه,ماذا يحدث,website,,http://www.akhawia.net/showthread.php?t=116676,DET
+166,Latakian,شو ياه,ماذا يحدث,website,,http://www.akhawia.net/showthread.php?t=116676,DET
+167,Latakian,مَجـَـنة,مكينة,website,,http://www.akhawia.net/showthread.php?t=116676,X
+168,Latakian,مشْنِص,محظوظ,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+169,Latakian,دشّـو,تركو,website,,http://www.akhawia.net/showthread.php?t=116676,X
+170,Latakian,أهتر,أهبل,website,,http://www.akhawia.net/showthread.php?t=116676,X
+171,Latakian,جيعان,جوعان,website,,http://www.akhawia.net/showthread.php?t=116676,X
+172,Latakian,هبّور,شرشوح,website,,http://www.akhawia.net/showthread.php?t=116676,X
+173,Latakian,تليانة,ممتلئ,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+174,Latakian,بتـّو,ابنته,website,,http://www.akhawia.net/showthread.php?t=116676,X
+175,Latakian,أخوّي,أخي,website,,http://www.akhawia.net/showthread.php?t=116676,X
+176,Latakian,زاوة,زاوية,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+177,Latakian,هردبشت,شخص أحمق,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+178,Latakian,هبور,شخص أحمق,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+179,Latakian,يا بو,للمناداة,website,,http://www.akhawia.net/showthread.php?t=116676,X
+180,Latakian,مَـش,لا شيء,website,,http://www.akhawia.net/showthread.php?t=116676,PART
+181,Latakian,إتـّة,أنت,website,,http://www.akhawia.net/showthread.php?t=116676,PRON
+182,Latakian,فـَهْنه,يوجد,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+183,Latakian,آي,نعم,website,,http://www.akhawia.net/showthread.php?t=116676,PART
+184,Latakian,بربيش,خرطوم,website,,http://www.akhawia.net/showthread.php?t=116676,X
+185,Latakian,فا,يوجد,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+186,Latakian,إسّا,لسّا,website,,http://www.akhawia.net/showthread.php?t=116676,X
+187,Latakian,يحمّك,دعوة بالشر و الحمى,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+188,Latakian,فلوكا,مركب الصيد المتوسط الطول,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+189,Latakian,لنش,مركب الصيد الطويل و الكبير,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+190,Latakian,بَبّور,سفينة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+191,Latakian,ما عن طـَيبي,عن غير قصد,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+192,Latakian,زيح,ابتعد,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+193,Latakian,خمخوم,حشري,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+194,Latakian,شو دحشك,ليس لك علاقة بالموضوع,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+195,Latakian,فط,قفز,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+196,Latakian,كـَحَشو,طردو,website,,http://www.akhawia.net/showthread.php?t=116676,X
+197,Latakian,دَرمِل,انقلع من هنا,website,,http://www.akhawia.net/showthread.php?t=116676,ADP
+198,Latakian,احليء,انقلع من هنا,website,,http://www.akhawia.net/showthread.php?t=116676,ADP
+199,Latakian,علئة,مشكلة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+200,Latakian,يو عين,يا عين,website,,http://www.akhawia.net/showthread.php?t=116676,PART
+201,Latakian,أرؤوعة,بالية,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+202,Latakian,مهرهرة,بالية,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+203,Latakian,سيبو,اتركه,website,,http://www.akhawia.net/showthread.php?t=116676,X
+204,Latakian,طيك العوفة,يعطيك العافية,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+205,Latakian,بسّة,قطة,website,,http://www.akhawia.net/showthread.php?t=116676,X
+206,Latakian,مريّة,مراّة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+207,Latakian,اكْعَر,طَرَد,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+208,Latakian,اصْغـَر,طَرَد,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+209,Latakian,معتـّر,مسكين,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+210,Latakian,بتـّ,بنت,website,,http://www.akhawia.net/showthread.php?t=116676,X
+211,Latakian,لألوء,عديم القيمة,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+212,Latakian,لزّ,إقترب,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+213,Latakian,حربوْء,ذكي,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+214,Latakian,فوِّج,انقلع,website,,http://www.akhawia.net/showthread.php?t=116676,X
+215,Latakian,مسأسئ,مشبع بالسوائل,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+216,Latakian,حبْكت,وصلت للذروة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+217,Latakian,شكودري,حجش,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+218,Latakian,ولا خَي,يا أخي,website,,http://www.akhawia.net/showthread.php?t=116676,PART
+219,Latakian,عيِّن,انظر,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+220,Latakian,غريم,كريم وجه,website,,http://www.akhawia.net/showthread.php?t=116676,X
+221,Latakian,تتشيّع,تمني الموت للشخص,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+222,Latakian,اعْركا,تكلم معه,website,,http://www.akhawia.net/showthread.php?t=116676,VERB
+223,Latakian,إيّاعااا,للتعجب الكثير,website,,http://www.akhawia.net/showthread.php?t=116676,ADP
+224,Latakian,إيّا عزّةة,للتعجب الكثير,website,,http://www.akhawia.net/showthread.php?t=116676,ADP
+225,Latakian,شَحّاري,للتعجب الكثير,website,,http://www.akhawia.net/showthread.php?t=116676,ADP
+226,Latakian,عكّيد,شجاع,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+227,Latakian,سأرأ,علبة معدنية,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+228,Latakian,زنزوءة,مرجوحة,website,,http://www.akhawia.net/showthread.php?t=116676,ADJ
+229,Latakian,برغاليا,بلغاريا,website,,http://www.akhawia.net/showthread.php?t=116676,X
+230,Latakian,شنتيانة,سكين,website,,http://www.akhawia.net/showthread.php?t=116676,X
+231,Latakian,للعلئة,مشكلة,website,,http://www.akhawia.net/showthread.php?t=116676,NOUN
+232,Latakian,بلعِط,تحرك بسرعة,website,,http://www.akhawia.net/showthread.php?t=116676,X
+233,Latakian,لوص,تحرك بسرعة,website,,http://www.akhawia.net/showthread.php?t=116676,X
+234,Latakian,يعطيك العوفة,يعطيك العافية,Questionnaire,,,VERB
+235,Latakian,لأ ولو,للإندهاش الشديد,Questionnaire,,,ADP
+236,Latakian,كيفا,كيفك,Questionnaire,,,X
+237,Latakian,بحيي,بحر,Questionnaire,,,NOUN
+238,Latakian,فدان,الثور,Questionnaire,,,NOUN
+239,Latakian,الكريك,اليونان,Questionnaire,,,NOUN
+240,Latakian,الشين,جراب,Questionnaire,,,NOUN
+241,Latakian,استحكهنه,تأكد منه,Questionnaire,,,ADP
+242,Latakian,كوهين,شخص الشديد المكر,Questionnaire,,,ADJ
+243,Latakian,ضبتّك,رايتك بينما كنت تحاول الاختباء مني,Questionnaire,,,VERB
+244,Latakian,كشة,مجموعة حمام,Questionnaire,,,NOUN
+245,Latakian,خسا وعشين,خمسة وعشرين,Questionnaire,,,NUM
+246,Latakian,خسين,خمسين,Questionnaire,,,NUM
+247,Latakian,شو خبر,ماذا حدث؟؟,Questionnaire,,,PUNCT
+248,Latakian,على بنى,على اساس,Questionnaire,,,ADP
+249,Latakian,وازكان,واذا,Questionnaire,,,CCONJ
+250,Latakian,عبكرة الصبح,الصباح الباكر,Questionnaire,,,ADJ
+251,Latakian,امسيهنه,البارحة,Questionnaire,,,NOUN
+252,Latakian,اليومه,اليوم,Questionnaire,,,NOUN
+253,Latakian,القصة,الحبيبة,Questionnaire,,,ADJ
+254,Latakian,كركمة,عجوز,Questionnaire,,,NOUN
+255,Latakian,أبّع ركيد,أسرع بالركض,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+256,Latakian,آبول,موافق,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADJ
+257,Latakian,اتلسّع,اتناول الطعام,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+258,Latakian,أتوسة,قليلا,website,,https://ya-shabab.yoo7.com/t57-topic,ADJ
+259,Latakian,أدّوم,مطرقة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+260,Latakian,استحكيه,تكلم معه,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+261,Latakian,ألاشين,جوارب,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+262,Latakian,انئلع,أغرب عن وجهي,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADP
+263,Latakian,انعفطوا,  ألقي القبض عليهم,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+264,Latakian,آي آي,نعم نعم,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,PART
+265,Latakian,اينجنور,مهندس,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+266,Latakian,بحّتو,ضربه ضربا مبرحا,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+267,Latakian,برطيل,رشوة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+268,Latakian,بزّاقة,من الحشرات الزاحفة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADP
+269,Latakian,بعّئ,صرخ,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+270,Latakian,جنّط,بنشر,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+271,Latakian,تاسومة,حذاء,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+272,Latakian,تخّر,أفسح الطريق,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+273,Latakian,تخريجة,  ثغرة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+274,Latakian,تضرب بنيعك,عليك اللعنة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADP
+275,Latakian,جعاري,عالي الصوت,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADJ
+276,Latakian,جفت,بندقية صيد,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+277,Latakian,حلّ عنّو,دعك منه,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADP
+278,Latakian,حليئ,إذهب من وجهي,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADP
+279,Latakian,جلجوء,لاقيمة له,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,PRON
+280,Latakian,درمل,إذهب بسرعة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+281,Latakian,دشّر,دع,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+282,Latakian,دلدوء,منافق أو من لا قيمة له,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+283,Latakian,دينتي,أذني,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+284,Latakian,ترخّ عليه,تثقل عليه,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+285,Latakian,سجرة,شجرة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+286,Latakian,سدّو لباجوقك,أغلق فمك,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+287,Latakian,سدّلي نيعك,أغلق فمك,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+288,Latakian,سدّ بوزك,أغلق فمك,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+289,Latakian,السرتفيكا,الشهادة الابتدائية,website,,https://ya-shabab.yoo7.com/t57-topic,ADJ
+290,Latakian,سلاقي,من أنواع الكلاب,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+291,Latakian,شبك؟,ماذا بك؟,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,DET
+292,Latakian,شحّاري,يا للمصيبة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,PART
+293,Latakian,شحميطي,يا للمصيبة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,PART
+294,Latakian,شحّاراسي,يا للمصيبة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,PART
+295,Latakian,عزرط,عديم القيمة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADJ
+296,Latakian,عيٌن,انظر,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+297,Latakian,غلونجي,أسعاره مرتفعة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADJ
+298,Latakian,فهنه,يوجد,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+299,Latakian,فدّان,ثور,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+300,Latakian,فرخ افوكاتو,محامي مبتدئ,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADJ
+301,Latakian,فوّامات سواجير,فلاتر السجائر,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+302,Latakian,قضّوضة,شطيرة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+303,Latakian,سندويشة,شطيرة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+304,Latakian,كعرو,طرده,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+305,Latakian,قلّعو,طرده,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+306,Latakian,كرفتّا,رباطة عنق,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+307,Latakian,كزدانة,كاسدة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+308,Latakian,طربيزة,طاولة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+309,Latakian,لاطي,مترقب بحذر,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+310,Latakian,لبود,انتظر بهدوء,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+311,Latakian,ضحكتو لقراميش دينيه,ابتسامة عريضة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+312,Latakian,طأمش,لبسَ   ثياباً أنيقة,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+313,Latakian,ماعن طيبي,عن غير قصدي,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADP
+314,Latakian,ماخود,شي ما,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,DET
+315,Latakian,مجعوز, منزعج ,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADJ
+316,Latakian,مدير الريجي,مدير مؤسسة التبغ,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+317,Latakian,مشبوح شبح,ملقى بإهمال,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+318,Latakian,ملحوش لحش,ملقى بإهمال,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+319,Latakian,مصرات, نقود,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NOUN
+320,Latakian,ناجس,بشكل نهائي,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,ADP
+321,Latakian,نسفئون,  نتناولهم,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+322,Latakian,هفاه هفي,أزاله تماماً,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,VERB
+323,Latakian,واح,واحد,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,NUM
+324,Latakian,ولا,أيّها ,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,X
+325,Latakian,يا حيفات,وا أسفاه,website,,https://www.christian-guys.net/vb/forum/%D9%81%D8%B1%D9%81%D8%B4%D8%A9/%D8%B5%D9%88%D8%B1-%D9%88-%D8%B1%D8%B3%D9%88%D9%85%D8%A7%D8%AA/%D8%AA%D8%B3%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%B5%D9%88%D8%A8%D8%AD/14908-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9,PART
+326,Latakian,يبريني عن ديني,أقْسِم,website,,https://ar.wikipedia.org/wiki/%D9%84%D9%87%D8%AC%D8%A9_%D8%B3%D8%A7%D8%AD%D9%84%D9%8A%D8%A9,X
+327,Latakian,يبلفوهم,يحتالون عليهم,website,,https://ar.wikipedia.org/wiki/%D9%84%D9%87%D8%AC%D8%A9_%D8%B3%D8%A7%D8%AD%D9%84%D9%8A%D8%A9,VERB
+328,Latakian,يعركس,يعرقل,website,,https://ar.wikipedia.org/wiki/%D9%84%D9%87%D8%AC%D8%A9_%D8%B3%D8%A7%D8%AD%D9%84%D9%8A%D8%A9,VERB
+329,Latakian,يكحشوهن,يطردوهن,website,,https://ar.wikipedia.org/wiki/%D9%84%D9%87%D8%AC%D8%A9_%D8%B3%D8%A7%D8%AD%D9%84%D9%8A%D8%A9,VERB
+330,Latakian,ينبّز,يظهر,website,,https://ar.wikipedia.org/wiki/%D9%84%D9%87%D8%AC%D8%A9_%D8%B3%D8%A7%D8%AD%D9%84%D9%8A%D8%A9,VERB
+331,Latakian,خوزائونا,ألحقوا الضرر بنا,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,VERB
+332,Latakian,أخسكر,أمزح,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,VERB
+333,Latakian,الغربتلية,الغرباء,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+334,Latakian,انكمشوا,ألقي القبض عليهم,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,VERB
+335,Latakian,بلاد الإكرك,اليونان,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+336,Latakian,صرماية,حذاء,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+337,Latakian,درخوشة,ثغرة,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+338,Latakian,حرمباية,الحرباء,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+339,Latakian,زراطة,عديم النفع,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,ADJ
+340,Latakian,رديء,عديم النفع,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,ADJ
+341,Latakian,سرتفيكا,شهادة المدرسة الابتدائية,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+342,Latakian,شطحطو,رميته أرضاً,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+343,Latakian,شلفون,دجاجة ضغيرة,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,ADJ
+344,Latakian,عاللسي,بهدوء,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+345,Latakian,مزعوج,منزعج أو متضايق,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,ADJ
+346,Latakian,ميتور,دراجة نارية,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,ADJ
+347,Latakian,والحشا,نوع من القسم,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+348,Latakian,يكحش,يطرد,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,VERB
+349,Latakian,ظراطة,عديم القيمة,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,ADJ
+350,Latakian,مجازي,مزاجي,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,X
+351,Latakian,انكمشوا,  ألقي القبض عليهم,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,VERB
+352,Latakian,درخوشة,مخرج,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+353,Latakian,مزعوج,منزعج,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,ADJ
+354,Latakian,مصاري, نقود,website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
+355,Latakian,نطرقن,نتناولهم(للأطعمة و المأكولات),website,,https://de3adai3a.wordpress.com/%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA-%D9%86%D8%AD%D8%A8%D9%87%D8%A7/,NOUN
